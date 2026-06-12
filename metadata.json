@@ -1,0 +1,6 @@
+{
+  "name": "Aurum Beads",
+  "description": "Une magnifique vitrine e-commerce responsive pour la vente de perles précieuses, de bijoux artisanaux et de sacs en perles faits main d'exception.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
